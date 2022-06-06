@@ -1,0 +1,11 @@
+{
+    "name": "ray/tutorial",
+    "require": {
+        "ray/di": "^2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ray\\Tutorial\\": "src"
+        }
+    }
+}
